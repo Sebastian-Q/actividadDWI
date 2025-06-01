@@ -3,3 +3,4 @@ Creación del controllador
 Videojuegos que actualmente juego
 Warzone
 Dead Island 2
+League of Legends
