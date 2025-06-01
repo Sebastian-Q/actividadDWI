@@ -1,4 +1,11 @@
 Creación del controllador
 
+<<<<<<< HEAD
+Videojuegos que actualmente juego
+Warzone
+Dead Island 2
+League of Legends
+=======
 Modificación de user1
 Hola mucho gusto
+>>>>>>> develop
